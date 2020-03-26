@@ -33,7 +33,7 @@ footer {
 }
 
 .movie-list li:last-child{
-    border-bottom: :none;
+    border-bottom: none;
 }
 
 .movie-list li:hover{

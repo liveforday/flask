@@ -108,3 +108,4 @@ venv.bak/
 *.txt
 user/test.py
 .env
+.db
